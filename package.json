@@ -1,0 +1,15 @@
+{
+  "name": "nexa-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NEXA Education Academy – courses, syllabus library and learning platform (static site generated from structured data).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "npm run build && npm run check",
+    "dev": "npm run build && node scripts/serve.mjs"
+  },
+  "dependencies": { "pdfkit": "^0.15.0" },
+  "engines": { "node": ">=18" }
+}
