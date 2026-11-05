@@ -1,0 +1,318 @@
+{
+ "pages": {
+  "404.html": {
+   "text": "881a9b9b628d1f14d0101501480f9d555b94770d2432c8f9a54d07e3a43e0d4c",
+   "links": "9414256999a8729280ad49c5a238f740c97813be9f8c2eb490f6678bfa62cda6"
+  },
+  "about/index.html": {
+   "text": "a02391a95dfc1017809bfc7014b37c28281cf307b4dbfbedab6482ca759c70ac",
+   "links": "c18ab4f0af23b044d0e98f8dc25d6270d503c68087396c74ae5eafefb49f5d79"
+  },
+  "contact/index.html": {
+   "text": "a844e37a2e379ce837a2348245062ed91ab276d3307ac5c53b8a27187d21c322",
+   "links": "11f300390290726cda05bbfacf3247c60acf0f260f29df8bd1e58fe579897a84"
+  },
+  "contact/success/index.html": {
+   "text": "921b801e437863bb07115764b6a3808559b0bc9799075c829916242cac43a280",
+   "links": "224cef02d7f921fc0ae4407cc93b5c432fc0e221987fbedfa35cc42f739df80d"
+  },
+  "courses/android-flutter/index.html": {
+   "text": "3cfc7b187e28365bf8a33ef45829bdd08e779d5d93a8eb878855ec3855d24679",
+   "links": "35546be0de4f00b461c9e9275ee44a7c64cae47b1a13c4843ccf8fa491b0c103"
+  },
+  "courses/artificial-intelligence-machine-learning/index.html": {
+   "text": "8585dd7cc85868dd4bfa3e13e16b5eb30d507b50fad052109ef0a8f3aea6c193",
+   "links": "ae222535ca9af64fc23363ff1b936f3967f5479e119e4b4ca64c29be0a8a4496"
+  },
+  "courses/blockchain-fundamentals/index.html": {
+   "text": "68709a702b9d4f2abcdd78c99e54e2601dcc97e8b7c6a073f5305b6c0988cf36",
+   "links": "d60dfdee87f291955bcf448a1f571db12e84bc35a3d90e7bf91f5041f21d887d"
+  },
+  "courses/c-programming/index.html": {
+   "text": "099ddbd5d7ca142e48785abae3eb02f0fcf48c74673558919d7da3e3fa20542e",
+   "links": "b6286663d94f87a865539cdf486bf0d65c213007d99066af648d3e1f2cb1d650"
+  },
+  "courses/cloud-computing/index.html": {
+   "text": "398ad58f0595d5216550397cfea01619eb46df7478bce43c0915515ca8088c0b",
+   "links": "e7150d0145dc6b401afa2953fbefa8c158aeed83efdd4cce027a0b39755c2f79"
+  },
+  "courses/cpp-programming/index.html": {
+   "text": "f551ad67203ff82d66c05201c4bd605e6dea88722a8d9a0a1253861efca14cdc",
+   "links": "5d0e79be1246416d2379df2a7547218cbf6ea9098a087891945133c216af47d5"
+  },
+  "courses/cybersecurity/index.html": {
+   "text": "f314d4170fb95d608d1516d46a0a11af77a4e3ccf7ed2f920b894278b0a12ca5",
+   "links": "89130b8ad5f3230d8fbe6cc47a34c66e68022f8e421566ac11019125aa91263c"
+  },
+  "courses/data-analytics/index.html": {
+   "text": "7a27dd31a795d238ce494da2f46dda3b54ab30eefb72e501a121cc78ac986986",
+   "links": "9bc77e0b94decdb049ed9ac994c2d3ef5d34d3b6c1d251d4bc372729261cb524"
+  },
+  "courses/data-science/index.html": {
+   "text": "741c90aad5737a9bccbc698692326ad480aee8e92381d22ff39159ae2bcc1a50",
+   "links": "04b073794236d66a666928993ecae6aab5e1bbd1301471f31583dbe7dda0da9c"
+  },
+  "courses/deep-learning-nlp/index.html": {
+   "text": "dafd4c97aa64cb1af834ab693abf4bdc4084fbf2ca10177b883fc36dbfecc106",
+   "links": "784eb5b2295f9aa774e155aae609f30cb4df00e9ba051c81c6fc2d2a1914f18c"
+  },
+  "courses/devops-ci-cd/index.html": {
+   "text": "0dd9b53610ea2009ec54699990a2849f4ebd2d19c54d60a114511c17a15737d8",
+   "links": "55294e8b5f702ba6e37419e0d3660c4b3984bfb0be49c68de6ba2fc1f745743a"
+  },
+  "courses/full-stack-web-development-mern/index.html": {
+   "text": "16e8a466d16e94ddf1d6e833c83322358f6a3d24d28e37e21f6a16670d3d1eb7",
+   "links": "2676fabbc295917b57b5ff523b2e0025f683b9b592d15fca78c1f5dd160b429b"
+  },
+  "courses/html5-css3/index.html": {
+   "text": "9b720c5f59ccfcb1378497668b0e38fc4e6cdecd9031c9218dbc8adec9d2ca50",
+   "links": "3fb768fdeae7c3a333763d873a42b9256fe6582385b0f0aa6e8d2a2128b609af"
+  },
+  "courses/index.html": {
+   "text": "a5fb16435c99b152213f7145f8a1baaaf546433fd1c0c3d596ca410cb08598a2",
+   "links": "a9e6bd0cb09765feb60baa726825e64ea81de7e273126b550674bfbbe0cc2301"
+  },
+  "courses/internet-of-things/index.html": {
+   "text": "d043dfa4630b58e42da03d7edf00eca1e21f45493e24a3cfdfaf65609023e8e2",
+   "links": "d577f7344fb78446377eec1a529b054e6516684b241563e8f8ee7c15c64bc59e"
+  },
+  "courses/java-dsa/index.html": {
+   "text": "89d35467b485504e58731e99ed6acbaa5c8eeee27dac325e555f741e3789f41c",
+   "links": "734c0c94cc2f943001e432e181b9d153c2f8375e13b94df927aa51ac05d7f836"
+  },
+  "courses/java-programming/index.html": {
+   "text": "2d665a413306ba032f8afa6b0f679d90a5e7fd9230bb4f9e7d676609a80f8f4f",
+   "links": "9df5d9a69c172cfa7251fca90fa2ca8cec57c6bfd7695c61083d74a770a43807"
+  },
+  "courses/javascript/index.html": {
+   "text": "ddd170fd3ee28b5ee0414f49f27a0b0671fbdd5c7160b12f9cb3309cde294f7c",
+   "links": "5360ac23b10b9726c56556559eb2dbfc2a835ce93fe4284c78d1388c444d9327"
+  },
+  "courses/python-programming/index.html": {
+   "text": "1235f2a18551958b6b01c5092900cc4f0a23aa60303414fd26970b2ecffb7f3a",
+   "links": "711925a510deed2cfebd07b2120815ca472316a87a81360b2e64fe02d4627270"
+  },
+  "courses/react-js-development/index.html": {
+   "text": "571c39099d410e5b4f92d7842b38d4deff1f0c7ca3b2db832088a4cc8b473d28",
+   "links": "092341335060feacda8cf177a87eaf638f85feeba9782a2890927f1da5b603b8"
+  },
+  "index.html": {
+   "text": "c1ea5ba0fbcc72e16b31e0ac457273457d32c553d102b8b598f3810174ce7345",
+   "links": "3027806aa8264635848e14da61501943b41ed6a06a288a6d8ef549aa26a1c3fa"
+  },
+  "institutions/index.html": {
+   "text": "cceb61ba5ceff864a2ea7ea91148c511f2d7ef48d6bdda7a58e148b40935a39f",
+   "links": "3553d896476acf7ae0898abda9bccdea9c72138d46cb88349a57e1cd403e75cc"
+  },
+  "privacy/index.html": {
+   "text": "176315f16c1e2f609bc6d9ad4b60802fe129ed92d225d72885f98ab56bd28235",
+   "links": "b61accdf42178362019dd8d1d975f5fe0daf1eeacacf78b8674fa6035b57ca6a"
+  },
+  "projects/index.html": {
+   "text": "731601561ef3ed6c82a88ad6838e51ab6eb352376e9cdcd59f0e388536b0e688",
+   "links": "9741efd984d36194045d914c98463ff2a44e4566d868f007e1ecbc4c443a819b"
+  },
+  "resources/index.html": {
+   "text": "a3fe4bdcc91e50ef8c4f6cfcbbae46ea332f17379e67a541f26047297c194631",
+   "links": "98d0ada21d27c7e2d90bc002804b1169de3744528edc8a6a9ac053b60ba3ea1f"
+  },
+  "syllabus/android-flutter/index.html": {
+   "text": "075fe8e1e35037c56dbe4c86536bcb517396462d35daa9394baca3b52902c0b8",
+   "links": "2005dc120464333eeed9a5910787cf0956d86cc0ae6fa80463664d95b69c1536"
+  },
+  "syllabus/artificial-intelligence-machine-learning/index.html": {
+   "text": "cdd3bc18d655128a08b44f2d1f764bbc7c175a7683000560feaa6cbde0450ea1",
+   "links": "09a3fabae50a6177a5de695388af336cc6fe09cbb5cdc0c5c7f2e92775f575b4"
+  },
+  "syllabus/blockchain-fundamentals/index.html": {
+   "text": "9d766cc10bfe342dc374da81de37651bca4a7496a41bb88d7c8e3aa611d1c88f",
+   "links": "fe6b619962b46ca999314169d103a6259d06759c2178365524e8deddb9908dd7"
+  },
+  "syllabus/c-programming/index.html": {
+   "text": "ed95079e6744cb082269b16e7e72e9cae714362e85ad5b1af4a194ab936cd14c",
+   "links": "65516c9390d40e6f2d317e9c97e169f94e315bef3158449f241298f0ec809d40"
+  },
+  "syllabus/cloud-computing/index.html": {
+   "text": "1333562ff0fa406635f42d4531c2a10ec25586191e5d7203b73ffee15cfc28f2",
+   "links": "60bf6ff5004d466a636129c3055feb38a7144e4719e727cbf0710e6216d67b4d"
+  },
+  "syllabus/cpp-programming/index.html": {
+   "text": "45ac90938507d24b155cf46e3770f471c2f80dc363ff4df1a2d6676585016f0b",
+   "links": "347be5fcec31613328c7dfc70df9042ab32aed5e24e38725b626a4d8e6519260"
+  },
+  "syllabus/cybersecurity/index.html": {
+   "text": "9ccbe9c953b8dc0a6e93790d514a8d4f3c62e317f5a5d5a7d90d6aa12826e22f",
+   "links": "00dd9c991ba3a5d9ef4021ac6323e9ef1018847dd77f18396934ae7241499c41"
+  },
+  "syllabus/data-analytics/index.html": {
+   "text": "294fd1f6ed84c8d9ad87b7af3a770753bc069bbdca269d25fed4bf15db286375",
+   "links": "30234bdcfda2f33b853c1a48ccafbdb71b77e2b464e18934c93018f66805363b"
+  },
+  "syllabus/data-science/index.html": {
+   "text": "2a1e0f2d72dac81f62a4580a1826c622711f58cb933cfb1a127d739b60d2515a",
+   "links": "ea57be3e64295f0d27607b539c50150063b39558a6e1f695f86f97f7d5b68a5c"
+  },
+  "syllabus/deep-learning-nlp/index.html": {
+   "text": "c4b77743fddf9c31981a9386c483dd21aca852645cdfae0754cae14d91f3f689",
+   "links": "4df897d0bcb7e0c20b4f0e2f9f84d6b4bf29b80ebf21ddb2edb5002e44bd195e"
+  },
+  "syllabus/devops-ci-cd/index.html": {
+   "text": "273621b44ea44b01c8fe6d96333595ca32c40d28acf52f3d73769d1b2fb9ed6a",
+   "links": "f0ca56453e8fb83051e5ec20c29dd3b2e02be1c22284ff4a3023151664825a7b"
+  },
+  "syllabus/full-stack-web-development-mern/index.html": {
+   "text": "956ebcd2ef72d0b4b34c2655c7e997f7d69f8cad02c69c8106ca3c1260ed5b78",
+   "links": "460a1f47cc26c20ee2e0c6e461a557e7ea8958d88e3677bf3a51aaf14f35fbe7"
+  },
+  "syllabus/giet-bca-r2020-2a/index.html": {
+   "text": "0ff2346326628562c3911778d907a18d45cbcd06081c150f07d72b3f2a6cded8",
+   "links": "d2f9944f971b6f5610ce39e613d52e659170a8fad283b9891649380b2792b9ce"
+  },
+  "syllabus/giet-bca-r2020-3a/index.html": {
+   "text": "8edc46140bbc88edbbe11687c9ede15f8ee1a78b6f9c91d7d7a6690fc9a845ff",
+   "links": "7437aeecbfa5ee1b0b5bef8576431ad2d45e0d8cc9922bdc1d7c7303f2bec0a2"
+  },
+  "syllabus/giet-btech-1st-year-2022-26/index.html": {
+   "text": "27468bb2b019acd4098e2c67f4964b6917337cfad0c0b6cc353c914d62788864",
+   "links": "7943181ed60421e82a31c288318ead5979c2b6f24524f662834e86fab169eaa0"
+  },
+  "syllabus/giet-btech-cse-aiml-pending/index.html": {
+   "text": "46560526ea15e942643e1d2a94f3fdce192edee575c93ad8f3f29484e9bd2081",
+   "links": "7712818b42381005111f3d72d51fa50d4a9f0298c3a54abe1072ce79ebce24aa"
+  },
+  "syllabus/giet-btech-cse-r2017/index.html": {
+   "text": "af31099f001afeaa2f4f58a8041830c92649a341fa1495afbfeacd780b9ba864",
+   "links": "e8b3a85e479f4292f5850bf966dfd273e0fc6375a34e0d9374e43f512efaf4ed"
+  },
+  "syllabus/giet-btech-cse-r2018/index.html": {
+   "text": "99c39c31aac963371a84215559e197914609b31379bbc03051a2ba6339bd8548",
+   "links": "d392c632a980b52c6e3e5cd32d5d83f0cc0d86cb3d3ead4432cfad23d250cf19"
+  },
+  "syllabus/giet-btech-cse-r2019/index.html": {
+   "text": "125fbdc52984bbbe64eba317347a53e4b85196048a9ba4ae8179b90b47c0c0c0",
+   "links": "80a434aed8cc3bc73d45f0229f7fa12aac695cd2228e4c4b40ee46502599466e"
+  },
+  "syllabus/giet-btech-cst-r2019/index.html": {
+   "text": "3c4566076c532650371b481311153316601b7ca8d55928a1f46d0aa0c5d3f5ac",
+   "links": "635af13defbf66e17d86bb3c2ade01b2280a6369cd096d0475cd2abe999feb28"
+  },
+  "syllabus/giet-btech-it-r2017/index.html": {
+   "text": "7b3e46e623f784c391f53aeedeba640085f898ec65ccf270787d4944e13e7eb2",
+   "links": "e57dffa14c689d90010a41a13779a5dc012d5ab1cb505209a8ac3a46b534ef1e"
+  },
+  "syllabus/giet-btech-it-r2018/index.html": {
+   "text": "8ba164d9a1c3dd3cebebd38e001a44400ae32a6bf9ab529d4992dbcd8a373164",
+   "links": "7c707e32896108466f882f5f6c7118adde757acd46c2dd30583e2e7e6e44614d"
+  },
+  "syllabus/giet-mca-r2020-2a/index.html": {
+   "text": "20c4419345e904c82676e42d0ff0210e62fd2322113b3e92b805ef6b5c6626c9",
+   "links": "f3a7b8ff9f5b502343844dddb190e48c45d54f3f2e0ce722c303f560616c05a6"
+  },
+  "syllabus/giet-mca-r2020-3a/index.html": {
+   "text": "3f845ba139b177b0b3973ca6e100a34b678fe3c0df67e5da45fe48ed4ebaa870",
+   "links": "7b777cdab48ce6f19739524a0de637bbe81fdc72ef4020fb09cda04164a6ae1e"
+  },
+  "syllabus/giet-mtech-cse-r2017/index.html": {
+   "text": "c11435ce469d973169f57fc2707dbc75b3d99573c3d66c49e750da18b888de9a",
+   "links": "04c4afadc68d7d40c814a6c25e7ce4e42ce4588d9cfc1a1af88df7227ebf66e6"
+  },
+  "syllabus/giet-mtech-cse-r2018/index.html": {
+   "text": "56563499917f2bf981875838e19dc61a82197e93b64b30cd82caf2549ac3bf56",
+   "links": "095f63dacdbf5b4aa8cd4f7d839aa1558ce7a083c0bced132689d6e41cb02e70"
+  },
+  "syllabus/giet-mtech-cse-r2019/index.html": {
+   "text": "cab580739c96e90518ac848acb3002d8b1d022b9419c964cd0445ad395283f04",
+   "links": "0240a8d4287063e9ed56ebccdba6bb9a07a70e9e75cc79b91dab07757341bde7"
+  },
+  "syllabus/html5-css3/index.html": {
+   "text": "cae19067f225e451edd8dc241143346003b33b0419064e7cae43305232355d86",
+   "links": "00867bd3d870da0c08b267d82bdf7aced760a4db18748ea9b01f12d0dd8ddac4"
+  },
+  "syllabus/index.html": {
+   "text": "cc533d514b80a6999bb1a67881ad333462333016063735376da40c7114f4022c",
+   "links": "08a229c86f6ce2516fea161a3d223ff1c8623be1877de87b4182d4a2f7d4bee8"
+  },
+  "syllabus/internet-of-things/index.html": {
+   "text": "64eb722bb091cea13c49a1ffde037d9aa80c135e6450aa48f2c51328b92a5d93",
+   "links": "48299df8e3239db4860878dfd733c85258c53ad2f711329f40a8af140e365017"
+  },
+  "syllabus/java-dsa/index.html": {
+   "text": "ab75ef8b6d0ddb8384c6acd631159d8f01b270d6300e18f5c64b81b4058ce07a",
+   "links": "cb603cf6e453a78ea3b5733262445bfbedc9deb3b329c1a344d6aa677e2a4aa4"
+  },
+  "syllabus/java-programming/index.html": {
+   "text": "9f0ae323ac386f80de4911719587464298eed17d5d4355703c027cbaa7a34824",
+   "links": "48622d0f2a7783b7d9ba09293fd98f4b369bc10650dfca2cf619b91485be1082"
+  },
+  "syllabus/javascript/index.html": {
+   "text": "32ada53996448031470ebebf62baedfc1d9b32ffb4c3cbecd07a3b6cdf8319ef",
+   "links": "f39c58e5f2bc6c25521bf9a9e53b9b0dabff27b897522f67e9bdd8073f0f54c8"
+  },
+  "syllabus/ltsu-bca-10plus2-needs-check/index.html": {
+   "text": "30b07ae9f584ab9a7b41bbfbb53dc696a7731d79504a7c6c9a5e8f0042d3ff40",
+   "links": "656a99888e1714908d12abd602422da06c4d40077bed8e37f7c63f7ed443905b"
+  },
+  "syllabus/ltsu-bca-aiml-2025-26/index.html": {
+   "text": "86e699a678307bf414e5ce60ae53e2f4b0b4413b8cb7097c14e7fe6245452ce6",
+   "links": "d277802e329a9f3aeb3ee7674cfaf608f666217da49ceb94a0de389faf3a6e4c"
+  },
+  "syllabus/ltsu-bca-cs-2025-26/index.html": {
+   "text": "592bb089507d7a2b3ba6c7e99e6827ecc02e08631c53b1716d0b63d174fcf0d4",
+   "links": "a6d84dca0457a3c39285dbd1a29da1c9fa58430679296161036b7feb41ca2094"
+  },
+  "syllabus/ltsu-btech-cse-ibm-pending/index.html": {
+   "text": "7e2e1d4fa6b9f00333d0c381289b1f8a7f1bbaf5bbbad5c00deba97af9562d4f",
+   "links": "6cfb7aed0d94cac184c8bbb2c2ce3d9d6191c66738b622ba30f838b31d775ca4"
+  },
+  "syllabus/ltsu-mca-2025-26/index.html": {
+   "text": "4e6353ab9f6941f4f2dea1789f7005752fe1a2ceccc58cd4838d1b28b7f91c63",
+   "links": "38805127481724dbc021d749a37cc5624531aae8ed16e7bdb8991a8f88c2deea"
+  },
+  "syllabus/ltsu-pgdca-2026/index.html": {
+   "text": "2ef34f3ba8669fe32328172ead670ec8cb1691d8366f319aad686ac0626c6ec4",
+   "links": "6032aaddc63f1b77d6005ec548512c3e288d4b31a160b85393ab6dcf0ae1ae7c"
+  },
+  "syllabus/python-programming/index.html": {
+   "text": "f809bff4c2dfa218c8683106ebf5f740096f5975b70f8c13962be31460711ac0",
+   "links": "ee37e3813ee12fe48eab6f8dd5ab5a191690985f96acffcd4c9e749940e764db"
+  },
+  "syllabus/react-js-development/index.html": {
+   "text": "4e80834876846184511a27d62ccbab1a2b4f57efb568101ef49e7246e915a42e",
+   "links": "4e5a2928e96b328fae9c812de78e49ef6805498e14e2b25002fbc37b779cde66"
+  },
+  "institutional-solutions/index.html": {
+   "text": "5d100f24516001b0537a33411d96e662da040c09d7227da8fbcee3976efaecee",
+   "links": "187b879855a6d0256ab9c81e9e4345f5f910bdce91de612b02b0e4c94244425d"
+  },
+  "nexa-in-action/index.html": {
+   "text": "9d6724932b665b82c8d38f76a08bf1b68710a1e03aa401285462956f9d11d88a",
+   "links": "4789f527a9b19f813f66f97afbd7dd4011662927dbceff435b4275a84f506d6d"
+  }
+ },
+ "bin": {
+  "data/syllabus-index.json": "248b254964100860a6deecec4ef62f00d5a93d6b7438a6aa3310262229c6bee9",
+  "pdfs/nexa-android-flutter-syllabus.pdf": "3f658ebdf36ed83cfb5a6b0c35fb6e87015e5f8bf150b11e315cbd32464d4206",
+  "pdfs/nexa-artificial-intelligence-machine-learning-syllabus.pdf": "0e940f6d13244888d92e4d7a7c226503af13afb2ed132f13a51d78aa3fb9a44a",
+  "pdfs/nexa-blockchain-fundamentals-syllabus.pdf": "db075057ddbc6e18b8758fde1810fb688bff2116d93fbab5f0ca8d3d964f583a",
+  "pdfs/nexa-c-programming-syllabus.pdf": "fa0ef5b3014849f5e43b9c308b92ce713931cef552be938d5c5b08a870310255",
+  "pdfs/nexa-cloud-computing-syllabus.pdf": "9adfdf16237e689bbaca08066164cde0288c3fe2b8ac76a66ee41b0574da4725",
+  "pdfs/nexa-cpp-programming-syllabus.pdf": "0bafa8dae030151b11ecfbb438906c4a96931118ce449f3ff24df2ac92e01266",
+  "pdfs/nexa-cybersecurity-syllabus.pdf": "921ba4eedb06f46aa3ce46107f10bd5269dabe882b28ac7e5c6c9e676ddb965d",
+  "pdfs/nexa-data-analytics-syllabus.pdf": "c5f8542ceef11b73ea3a98e667618b21ccc478a3d0c6e95d44a262fa45da1b1a",
+  "pdfs/nexa-data-science-syllabus.pdf": "02249686c418cb70a40b375061987cf8756e98b92646fdbe2b2c442d64c3833f",
+  "pdfs/nexa-deep-learning-nlp-syllabus.pdf": "6db7151d6a754b69cab6671bb90f320362d0eae530bdb135c7ce4e0732706823",
+  "pdfs/nexa-devops-ci-cd-syllabus.pdf": "b68e20e48e31330dcc51bffe1b5ca57045f7bc49fba8471b2486e85bcb8835ed",
+  "pdfs/nexa-full-stack-web-development-mern-syllabus.pdf": "888aef35589884f3376bcc24b669da9501f1bcbbcbb9419f9d2fd1cee94580b4",
+  "pdfs/nexa-html5-css3-syllabus.pdf": "822bb495c0dc3903a44e2e0b002f3fc55dc2a5314c4490442d9150bf1d34ac13",
+  "pdfs/nexa-internet-of-things-syllabus.pdf": "1d01047d20a9574a09ae03bec51b5dc972d885af027a18f00813e9898b9f2e41",
+  "pdfs/nexa-java-dsa-syllabus.pdf": "e7cb0a5e2acd03d8a39b517aabc21b921782be15dd655892192da7b5cd53c7e7",
+  "pdfs/nexa-java-programming-syllabus.pdf": "978629cb8f8fce09882936ef05afe0eb97806abf42abd34986cadcbf6e9c7fb1",
+  "pdfs/nexa-javascript-syllabus.pdf": "18b575f74862e144e8fe89bee236f2ea0b313c2ed4c16a382dfe188667cc6853",
+  "pdfs/nexa-python-programming-syllabus.pdf": "109e953742e350a583a4755416312ba7e45e43986165fa759e221db4e9d9feae",
+  "pdfs/nexa-react-js-development-syllabus.pdf": "ab7485b2fbf58acba7d5e7489336c218bac6bd871904e34792992ae3600e7b0b"
+ },
+ "chromeBaseline": {
+  "text": "d97095dcbdf478bcafe62f41cd73b31f52a9c66c017d6b3e46998a49720fc812",
+  "links": "c43de1c7e112fc81b75c5305354a7749429e6da941df3a0118357c5ece7d45bc"
+ }
+}

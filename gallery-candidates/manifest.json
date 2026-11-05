@@ -1,0 +1,214 @@
+{
+ "note": "Set \"approved\": true per item (or run: npm run gallery:approve) ONLY after publication permission is confirmed. Captions are intentionally generic.",
+ "items": [
+  {
+   "id": "nia-01",
+   "sizes": {
+    "480": 245,
+    "960": 490,
+    "1600": 816
+   },
+   "alt": "Wide view of a classroom training session with students seated in rows facing the trainer at the front.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-02",
+   "sizes": {
+    "480": 294,
+    "960": 588,
+    "1600": 980
+   },
+   "alt": "Students seen from behind in a lecture hall, watching a slide presentation during a training session.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-03",
+   "sizes": {
+    "480": 270,
+    "960": 539,
+    "1600": 899
+   },
+   "alt": "Wide view of a lecture hall during a training session, with the trainer at the front and students seated in rows.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-04",
+   "sizes": {
+    "480": 466,
+    "960": 931,
+    "1600": 1552
+   },
+   "alt": "Trainer standing at the front of a classroom beside a projected screen while students work on laptops.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-05",
+   "sizes": {
+    "480": 245,
+    "960": 490,
+    "1600": 816
+   },
+   "alt": "Rows of students seated in a bright lecture hall during a classroom training session.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-06",
+   "sizes": {
+    "480": 272,
+    "960": 545,
+    "1600": 908
+   },
+   "alt": "Students seated in a lecture hall facing the trainer, with a chalkboard and projector screen behind.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-07",
+   "sizes": {
+    "480": 465,
+    "960": 931
+   },
+   "alt": "Students in the foreground facing a chalkboard, with the trainer at the board in a classroom.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-08",
+   "sizes": {
+    "480": 466,
+    "960": 932
+   },
+   "alt": "Students seen from behind in a classroom, facing the trainer at the front during a session.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-09",
+   "sizes": {
+    "480": 466,
+    "960": 932
+   },
+   "alt": "Students seated at benches in a classroom facing the trainer at the front.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-10",
+   "sizes": {
+    "480": 506,
+    "960": 1012
+   },
+   "alt": "Students seated in a crowded lecture hall, seen from the back, during a training session.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-11",
+   "sizes": {
+    "480": 264,
+    "960": 529
+   },
+   "alt": "Wide view of a full lecture hall of students seen from behind, facing the chalkboard.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-12",
+   "sizes": {
+    "480": 238,
+    "960": 476
+   },
+   "alt": "Trainer standing at a chalkboard in a classroom during a session; the face is blurred for privacy.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-13",
+   "sizes": {
+    "480": 285,
+    "960": 570
+   },
+   "alt": "Trainer at a lectern beside a projected presentation, with students seated in the foreground.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-14",
+   "sizes": {
+    "480": 238,
+    "960": 476
+   },
+   "alt": "Trainer gesturing toward a projector screen while students listen in a lecture hall.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-15",
+   "sizes": {
+    "480": 238,
+    "960": 476
+   },
+   "alt": "Students at desks with laptops facing a trainer and a projected slide in a lecture hall.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-16",
+   "sizes": {
+    "480": 460,
+    "960": 919
+   },
+   "alt": "A projected slide on screen with the trainer beside it and students seated in the foreground.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-17",
+   "sizes": {
+    "480": 345,
+    "960": 690
+   },
+   "alt": "Trainer standing in front of a projected presentation, facing a lecture hall of students.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-18",
+   "sizes": {
+    "480": 241,
+    "960": 482,
+    "1600": 803
+   },
+   "alt": "Trainer at the front of a long lecture hall, with students seated in rows.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-19",
+   "sizes": {
+    "480": 241,
+    "960": 483,
+    "1600": 804
+   },
+   "alt": "Computer lab during a training session, with students at workstations and the trainer standing near the front.",
+   "category": "classroom",
+   "approved": true
+  },
+  {
+   "id": "nia-20",
+   "sizes": {
+    "480": 267,
+    "960": 534,
+    "1600": 890
+   },
+   "alt": "Trainer standing in a computer lab with students working at computers; faces are blurred for privacy.",
+   "category": "classroom",
+   "approved": true
+  }
+ ]
+}
