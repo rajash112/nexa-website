@@ -1,0 +1,28 @@
+{
+  "name": "nexa-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "NEXA Education Academy – courses, syllabus library and learning platform (static site generated from structured data).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "npm run build && npm run check && node scripts/lint-claims.mjs && node scripts/content-parity.mjs",
+    "parity": "npm run build && node scripts/content-parity.mjs",
+    "e2e": "node scripts/serve.mjs & sleep 1 && python3 tests/e2e.py; kill %1",
+    "build:preview": "GALLERY_PREVIEW=1 node scripts/build.mjs",
+    "gallery:approve": "node scripts/gallery-approve.mjs",
+    "parity:bytes": "npm run build && node scripts/parity.mjs",
+    "dev": "npm run build && node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "lucide-static": "^1.66.0",
+    "pdfkit": "^0.15.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "axe-core": "^4.14.0"
+  }
+}
